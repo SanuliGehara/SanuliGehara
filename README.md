@@ -35,7 +35,7 @@
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,html,css,js,flutter,react,ts,nodejs,expressjs,mysql,mongodb,firebase,tailwindcss,bootstrap,mui,figma,git,github,idea,vscode,azure&theme=dark&perline=10" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,spring,html,css,js,flutter,react,nextjs,ts,nodejs,expressjs,nestjs,mysql,postgresql,mongodb,firebase,tailwindcss,bootstrap,mui,figma,git,github,idea,vscode,azure&theme=dark&perline=10" alt="Skills" />
   </a>
 </p>
 
